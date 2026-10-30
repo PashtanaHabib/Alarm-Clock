@@ -4,7 +4,7 @@ A simple, clean, and functional **web-based Alarm Clock** application. This proj
 
 ## 🔗 Live Demo
 You can view the live, interactive deployment of this project here:
-👉 **[View Live Demo](https://github.io)** *(Note: Remember to update this link with your actual GitHub Pages URL later!)*
+👉 **[View Live Demo](https://pashtanahabib.github.io/Alarm-Clock/)** *(Note: Remember to update this link with your actual GitHub Pages URL later!)*
 
 ---
 
@@ -30,14 +30,6 @@ The primary objective of this project was to implement and understand key JavaSc
 
 ---
 
-## 💻 How to Run Locally
-1. Clone the repository to your machine:
-   ```bash
-   git clone https://github.com
-   ```
-2. Navigate into the project folder.
-3. Open `index.html` directly in any modern web browser to start the app!
 
----
 
 💡 *This is a pure vanilla JavaScript practice repository meant for deep-diving into DOM manipulation and browser scheduling APIs.*
