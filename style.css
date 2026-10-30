@@ -16,11 +16,11 @@ body , .container , .content{
 
 body{
     height: 100vh;
-    background: #4a98f7;
+    background: #3F0C09;
 }
 .container{
     width: 450px;
-    background: #fff;
+    background: #FFDE5A;
     padding: 30px;
     border-radius: 10px;
     flex-direction: column;
@@ -28,7 +28,7 @@ body{
 
 .container img{
     width: 150px;
-    height: 155px;
+    height: 150px;
 }
 
 .container h1{
@@ -45,7 +45,7 @@ body{
     pointer-events: none;
 }
 .content .controls{
-    border: 1px solid #999;
+    border: 1px solid #3F0C09;
     width: calc(100% / 2 - 5px);
     border-radius: 5px;
     padding: 5px 10px;
@@ -56,16 +56,20 @@ body{
     border: 0;
     width: 100%;
     font-size: 16px;
+    background: #FFDE5A;
 }
 
 .container button{
     width: 100%;
     outline: 0;
     border: 0;
-    background: #4a98f7;
-    color: #fff;
+    background: #3F0C09;
+    color: #FFDE5A;
     padding: 15px 0;
     margin-top: 20px;
     border-radius: 5px;
     font-size: 20px;
+}
+.container button:hover{
+    box-shadow: 0 0 50px #3F0C09;
 }
